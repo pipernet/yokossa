@@ -1,4 +1,4 @@
 baseURL = "http://yokossa.com"
 languageCode = "en-us"
 title = "Yokossa!"
-theme = "beautifulhugo"
+theme = "hugo-nederburg-theme"
